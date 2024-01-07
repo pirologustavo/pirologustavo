@@ -2,6 +2,7 @@
 
 - Estudante de Ciência da Computação
 - Interessado em tecnologias Front-end
+- Meu perfil Alura: https://cursos.alura.com.br/user/pirologustavo
 
 <div>
   <a href="https://github.com/pirologustavo">
