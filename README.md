@@ -1,7 +1,6 @@
 # Olá! Eu sou o Gustavo Pirolo
 
 - Estudante de Ciência da Computação
-- Interessado em tecnologias Front-end
 - Meu perfil Alura: https://cursos.alura.com.br/user/pirologustavo
 
 <div>
