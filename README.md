@@ -3,11 +3,6 @@
 - Estudante de Ciência da Computação
 - Meu perfil Alura: https://cursos.alura.com.br/user/pirologustavo
 
-<div>
-  <a href="https://github.com/pirologustavo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pirologustavo&show_icons=true&theme=dracula&hide_rank=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirologustavo&layout=compact&langs_count=16&theme=dark"/>
-</div>
 <div style ="display: incline_block"><br>
   <img aling="center" alt="Pirolo-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img aling="center" alt="Pirolo-css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
