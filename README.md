@@ -11,7 +11,7 @@
   <img aling="center" alt="Pirolo-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img aling="center" alt="Pirolo-py" height="30" widht="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-<i class="devicon-php-plain"></i>
+<i class="devicon-php-plain" aling="center" alt="Pirolo-py" height="30" widht="40"></i>
           
   
  ##
