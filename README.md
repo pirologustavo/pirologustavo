@@ -2,11 +2,17 @@
 
 - Estudante de Ciência da Computação
 - Meu perfil Alura: https://cursos.alura.com.br/user/pirologustavo
-
+<head>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />        
+</head>
 <div style ="display: incline_block"><br>
   <img aling="center" alt="Pirolo-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img aling="center" alt="Pirolo-css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img aling="center" alt="Pirolo-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img aling="center" alt="Pirolo-py" height="30" widht="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+<i class="devicon-php-plain"></i>
+          
   
  ##
   
